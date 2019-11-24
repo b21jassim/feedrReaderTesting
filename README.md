@@ -12,4 +12,3 @@ In this project you are given a web-based application that reads RSS feeds. The 
 - Toggles on click event if the menu appears or disappears
 - Tests if the loadFeed function has at least a single '.entry' within the '.feed' container
 - Tests to see if two entries are not equal
-# FeedReaderTesting
